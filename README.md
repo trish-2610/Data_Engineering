@@ -49,4 +49,4 @@ Welcome to the **Data Engineering Notes Repository**! This repository is a curat
 
 ## **👨‍💻 About the Author**  
 
-This repository was created by **Trishansh** as a resource to simplify and organize key concepts in data engineering for students and professionals alike.  
+This repository is created by **Trishansh** as a resource to simplify and organize key concepts in data engineering for students and professionals alike.  
