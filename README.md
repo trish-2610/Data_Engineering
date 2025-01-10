@@ -1,4 +1,4 @@
-##### **Data Engineering Notes by Trishansh**  
+#**Data Engineering Notes by Trishansh**  
 
 Welcome to the **Data Engineering Notes Repository**! This repository is a curated collection of key concepts, tools, and techniques in data engineering, designed to help you build a strong foundation and advance your expertise in this field.  
 
