@@ -44,7 +44,6 @@ Welcome to the **Data Engineering Notes Repository**! This repository is a curat
 [Access the Repository](https://github.com/trish-2610/Data_Engineering/tree/main)  
 
 ---
-
 ## **👨‍💻 About the Author**  
 
 This repository is created by **Trishansh** as a resource to simplify and organize key concepts in data engineering for students and professionals alike.  
